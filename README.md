@@ -20,4 +20,4 @@ Training list corresponding to the directory.
 
 ### Non-Standard Practice
 
-
+2017-07-30 [BUAA Summer Practice 2017 Data Structure](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Data%20Structure) (12/12)
