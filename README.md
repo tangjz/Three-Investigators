@@ -23,3 +23,5 @@ Training list corresponding to the directory.
 2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12)
 
 2017-07-30 [BUAA Summer Practice 2017 Data Structure](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Data%20Structure) (12/12)
+
+2017-08-14 [BUAA Summer Practice 2017 Dynamic Programming](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Dynamic%20Programming) (12/12)
