@@ -26,6 +26,8 @@ Training list corresponding to the directory.
 
 2017-08-12 [2013 ACM-ICPC Asia Regional Changchun Online](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Regional%20Changchun%20Online) (11/11)
 
+2017-08-19 [2017 中国大学生程序设计竞赛 - 网络选拔赛](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e7%bd%91%e7%bb%9c%e9%80%89%e6%8b%94%e8%b5%9b) (11/11) **(lack of A, C, D, E, F, G, H)**
+
 2017-09-09 [2017 ACM-ICPC Asia Regional Urumqi Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Urumqi%20Online) (10/10)
 
 ### Partial Attendance
