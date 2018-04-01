@@ -56,6 +56,8 @@ Training list corresponding to the directory.
 
 **2017-11-15 [2013 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (9/10)**
 
+**2017-11-21 [2017 ACM-ICPC Asia Beijing Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Beijing%20Regional%20Contest) (8/10)**
+
 ### Partial Attendance
 
 2017-03-12 [2015 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (10/10) @skywalkert @braveTester
