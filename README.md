@@ -60,6 +60,8 @@ Training list corresponding to the directory.
 
 **2017-09-22 [Bubble Cup X - Finals](https://wiki-three-investigators.icpc-camp.org/Bubble%20Cup%20X%20-%20Finals) (7/9)** @chitanda @braveTester
 
+**2017-09-30 [2013-2014 ACM-ICPC, NEERC, Eastern Subregional Contest](https://wiki-three-investigators.icpc-camp.org/2013-2014%20ACM-ICPC,%20NEERC,%20Eastern%20Subregional%20Contest) (9/10)** @chitanda @braveTester
+
 ### Non-Standard Practice
 
 2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12) **(lack of A-2)**
