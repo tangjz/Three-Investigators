@@ -40,7 +40,7 @@ Training list corresponding to the directory.
 
 **2017-09-17 [2017 ACM-ICPC Asia Regional Qingdao Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Qingdao%20Online) (10/11)** **(lack of C, D-2, E, G, H, J, K)**
 
-2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online]() (10/10) **(lack of A, C, E, G, J)**
+2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Beijing%20Online) (10/10) **(lack of A, C, E, G, J)**
 
 ### Partial Attendance
 
@@ -55,6 +55,8 @@ Training list corresponding to the directory.
 2017-08-15 [2017 Multi-University Training Contest - Team 7](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%207) (13/13) **(lack of B, C-2, E, G, J, K)**
 
 2017-08-17 [2017 Multi-University Training Contest - Team 8](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%208) (11/11) **(lack of A, C, F, G, I)**
+
+**2017-09-20 [XVII Open Cup named after E.V. Pankratiev, Eastern Grand Prix](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev,%20Eastern%20Grand%20Prix) (11/12)**
 
 ### Non-Standard Practice
 
