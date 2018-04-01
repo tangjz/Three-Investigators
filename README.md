@@ -40,6 +40,8 @@ Training list corresponding to the directory.
 
 **2017-09-17 [2017 ACM-ICPC Asia Regional Qingdao Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Qingdao%20Online) (10/11)** **(lack of C, D-2, E, G, H, J, K)**
 
+2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online]() (10/10) **(lack of A, C, E, G, J)**
+
 ### Partial Attendance
 
 2017-03-12 [2015 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (10/10) @skywalkert @braveTester
