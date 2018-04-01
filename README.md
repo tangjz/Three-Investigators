@@ -2,6 +2,12 @@
 
 Team Wiki: [Wiki - Three Investigators](https://wiki-three-investigators.icpc-camp.org)
 
+## Onsite 2017 - 2018
+
+Contest list corresponding to the directory. Contents include upsolving codes and others.
+
+2017-10-22 [2017 ACM-ICPC Asia Shenyang Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Shenyang%20Regional%20Contest) (9+4/13)
+
 ## Training 2017 - 2018
 
 Training list corresponding to the directory.
