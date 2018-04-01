@@ -70,6 +70,8 @@ Training list corresponding to the directory.
 
 2017-07-30 [2013 ACM-ICPC Asia Changchun Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Changchun%20Regional%20Contest) (10/10) @chitanda @braveTester
 
+**2017-08-04 [2014 ACM-ICPC Arab Collegiate Programming Contest](https://wiki-three-investigators.icpc-camp.org/2014%20ACM-ICPC%20Arab%20Collegiate%20Programming%20Contest) (9/10)**
+
 2017-08-15 [2017 Multi-University Training Contest - Team 7](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%207) (13/13) @chitanda @skywalkert **(lack of B, C-2, E, G, J, K)**
 
 2017-08-17 [2017 Multi-University Training Contest - Team 8](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%208) (11/11) @chitanda @skywalkert **(lack of A, C, F, G, I)**
