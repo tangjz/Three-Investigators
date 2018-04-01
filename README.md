@@ -22,6 +22,8 @@ Training list corresponding to the directory.
 
 2017-08-08 [2017 Multi-University Training Contest - Team 5](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%205) (11/11) **(lack of B, F, G, H, I, J, K)**
 
+2017-08-10 [2017 Multi-University Training Contest - Team 6](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%206) (12/12) **(lack of B, C, D, E, F, H, I, J, K, L)**
+
 2017-09-09 [2017 ACM-ICPC Asia Regional Urumqi Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Urumqi%20Online) (10/10)
 
 ### Partial Attendance
