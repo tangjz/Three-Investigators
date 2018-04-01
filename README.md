@@ -42,6 +42,8 @@ Training list corresponding to the directory.
 
 2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Beijing%20Online) (10/10) **(lack of A, C, E, G, J)**
 
+**2017-10-16 [XVII Open Cup named after E.V. Pankratiev. GP of Tatarstan](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20GP%20of%20Tatarstan) (10/12)**
+
 ### Partial Attendance
 
 2017-03-12 [2015 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (10/10) @skywalkert @braveTester
