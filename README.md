@@ -36,6 +36,8 @@ Training list corresponding to the directory.
 
 2017-09-10 [2017 ACM-ICPC Asia Regional Shenyang Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Shenyang%20Online) (12/12) **(lack of A, B, C, D, F, I, J, L)**
 
+2017-09-16 [2017 ACM-ICPC Asia Regional Xi¡¯an Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Xi%e2%80%99an%20Online) (10/10) **(lack of C, D, E, H, I)**
+
 ### Partial Attendance
 
 2017-03-12 [2015 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (10/10) @skywalkert @braveTester
