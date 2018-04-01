@@ -46,6 +46,6 @@ Training list corresponding to the directory.
 
 **2017-08-02 [2013 ACM-ICPC Asia Chengdu Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Chengdu%20Regional%20Contest) (9/10)** **(lack of A, C, D, F, G, H, J)**
 
-2017-08-06 [2014 ACM-ICPC Asia Regional Anshan Online](https://wiki-three-investigators.icpc-camp.org/2014%20ACM-ICPC%20Asia%20Regional%20Anshan%20Online) (9/10)
+**2017-08-06 [2014 ACM-ICPC Asia Regional Anshan Online](https://wiki-three-investigators.icpc-camp.org/2014%20ACM-ICPC%20Asia%20Regional%20Anshan%20Online) (9/10)**
 
 2017-08-14 [BUAA Summer Practice 2017 Dynamic Programming](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Dynamic%20Programming) (12/12)
