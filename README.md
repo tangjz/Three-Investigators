@@ -20,6 +20,8 @@ Training list corresponding to the directory.
 
 2017-06-03 [2014-2015 Summer Petrozavodsk Camp, Petr Mitrichev Contest 12](https://wiki-three-investigators.icpc-camp.org/2014-2015%20Summer%20Petrozavodsk%20Camp,%20Petr%20Mitrichev%20Contest%2012) (9/9) @chitanda @braveTester
 
+2017-07-30 [2013 ACM-ICPC Asia Changchun Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Changchun%20Regional%20Contest) (10/10) @chitanda @braveTester
+
 ### Non-Standard Practice
 
 2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12)
