@@ -40,6 +40,8 @@ Training list corresponding to the directory.
 
 2017-08-15 [2017 Multi-University Training Contest - Team 7](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%207) (13/13) **(lack of B, C-2, E, G, J, K)**
 
+2017-08-17 [2017 Multi-University Training Contest - Team 8](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%208) (11/11) **(lack of A, C, F, G, I)**
+
 ### Non-Standard Practice
 
 2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12) **(lack of A-2)**
