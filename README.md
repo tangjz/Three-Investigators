@@ -12,6 +12,10 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 **2017-11-05 [2017 中国大学生程序设计竞赛 - 杭州站](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%9d%ad%e5%b7%9e%e7%ab%99) (9+1/12)**
 
+**2017-12-03 [2017 中国大学生程序设计竞赛 - 总决赛](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%80%bb%e5%86%b3%e8%b5%9b) (7/12)**
+
+**2017-12-19 [2017 ACM-ICPC Asia East Continent League Final](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20East%20Continent%20League%20Final) (10/13)**
+
 ## Training 2017 - 2018
 
 Training list corresponding to the directory.
@@ -52,6 +56,8 @@ Training list corresponding to the directory.
 
 2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Beijing%20Online) (10/10) **(lack of A, C, E, G, J)**
 
+**2017-09-24 [2017 ACM-ICPC Asia Regional Nanning Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Nanning%20Online) (12/13)** **(lack of A, B, C, D, E, F, G, H, I, J, L, M)**
+
 **2017-10-16 [XVII Open Cup named after E.V. Pankratiev. GP of Tatarstan](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20GP%20of%20Tatarstan) (10/12)**
 
 **2017-11-15 [2013 ACM-ICPC Southwestern Europe Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (9/10)**
@@ -76,6 +82,8 @@ Training list corresponding to the directory.
 
 2017-08-17 [2017 Multi-University Training Contest - Team 8](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%208) (11/11) @chitanda @skywalkert **(lack of A, C, F, G, I)**
 
+**2017-08-31 [2017 ACM-ICPC China Guangxi Invitational Programming Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20China%20Guangxi%20Invitational%20Programming%20Contest) (11/12)** @chitanda **(lack of A, B, C, D, E, F, G, H, I, J, K)**
+
 **2017-09-20 [XVII Open Cup named after E.V. Pankratiev, Eastern Grand Prix](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev,%20Eastern%20Grand%20Prix) (11/12)** @chitanda @braveTester
 
 **2017-09-22 [Bubble Cup X - Finals](https://wiki-three-investigators.icpc-camp.org/Bubble%20Cup%20X%20-%20Finals) (7/9)** @chitanda @braveTester
@@ -87,6 +95,8 @@ Training list corresponding to the directory.
 **2017-10-05 [2009-2010 Summer Petrozavodsk Camp, Andrew Stankevich Contest 35](https://wiki-three-investigators.icpc-camp.org/2009-2010%20Summer%20Petrozavodsk%20Camp,%20Andrew%20Stankevich%20Contest%2035) (7/10)** @chitanda @braveTester
 
 **2017-10-07 [2015 ACM-ICPC Northwestern European Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Northwestern%20European%20Regional%20Contest) (9/11)** @chitanda
+
+**2017-10-14 [XVII Open Cup named after E.V. Pankratiev. Grand Prix of Two Capitals](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Two%20Capitals) (6/11)** @chitanda **(lack of six problems)**
 
 ### Non-Standard Practice
 
