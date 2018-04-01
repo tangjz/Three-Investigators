@@ -76,6 +76,8 @@ Training list corresponding to the directory.
 
 **2017-10-05 [2009-2010 Summer Petrozavodsk Camp, Andrew Stankevich Contest 35](https://wiki-three-investigators.icpc-camp.org/2009-2010%20Summer%20Petrozavodsk%20Camp,%20Andrew%20Stankevich%20Contest%2035) (7/10)** @chitanda @braveTester
 
+**2017-10-07 [2015 ACM-ICPC Northwestern European Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Northwestern%20European%20Regional%20Contest) (9/11)** @chitanda
+
 ### Non-Standard Practice
 
 **2016-08-13 [2015-2016 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://wiki-three-investigators.icpc-camp.org/2015-2016%20Petrozavodsk%20Winter%20Training%20Camp,%20Saratov%20SU%20Contest) (7/11)**
