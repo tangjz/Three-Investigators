@@ -8,6 +8,8 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 2017-10-22 [2017 ACM-ICPC Asia Shenyang Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Shenyang%20Regional%20Contest) (9+4/13)
 
+**2017-10-29 [2017 ACM-ICPC Asia Xi¡¯an Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Xi%e2%80%99an%20Regional%20Contest) (8+1/11)**
+
 ## Training 2017 - 2018
 
 Training list corresponding to the directory.
