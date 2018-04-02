@@ -72,7 +72,7 @@ Training list corresponding to the directory.
 
 2017-06-03 [2014-2015 Summer Petrozavodsk Camp, Petr Mitrichev Contest 12](https://wiki-three-investigators.icpc-camp.org/2014-2015%20Summer%20Petrozavodsk%20Camp,%20Petr%20Mitrichev%20Contest%2012) (9/9) @chitanda @braveTester
 
-2017-07-27 [2017 Multi-University Training Contest - Team 2](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%202) (11/11) @braveTester @skywalkert **(lack of A, C, E, J)**
+2017-07-27 [2017 Multi-University Training Contest - Team 2](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%202) (11/11) @braveTester @skywalkert **(lack of J)**
 
 2017-07-30 [2013 ACM-ICPC Asia Changchun Regional Contest](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Changchun%20Regional%20Contest) (10/10) @chitanda @braveTester
 
