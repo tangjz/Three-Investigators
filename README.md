@@ -48,7 +48,7 @@ Training list corresponding to the directory.
 
 2017-09-09 [2017 ACM-ICPC Asia Regional Urumqi Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Urumqi%20Online) (10/10)
 
-2017-09-10 [2017 ACM-ICPC Asia Regional Shenyang Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Shenyang%20Online) (12/12) **(lack of C, C-2, I, I-2)**
+2017-09-10 [2017 ACM-ICPC Asia Regional Shenyang Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Shenyang%20Online) (12/12) **(lack of C-2, I)**
 
 2017-09-16 [2017 ACM-ICPC Asia Regional Xi¡¯an Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Xi%e2%80%99an%20Online) (10/10) **(lack of C, D, E, H, I)**
 
