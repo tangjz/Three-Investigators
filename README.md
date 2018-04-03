@@ -30,11 +30,11 @@ Training list corresponding to the directory.
 
 2017-08-01 [2017 Multi-University Training Contest - Team 3](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%203) (11/11) **(lack of D-2, G-2, H-2)**
 
-2017-08-03 [2017 Multi-University Training Contest - Team 4](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%204) (13/13) **(lack of M)**
+2017-08-03 [2017 Multi-University Training Contest - Team 4](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%204) (13/13)
 
 2017-08-05 [2013 ACM-ICPC Asia Regional Nanjing Online](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Regional%20Nanjing%20Online) (11/11)
 
-2017-08-08 [2017 Multi-University Training Contest - Team 5](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%205) (11/11) **(lack of G, I, J)**
+2017-08-08 [2017 Multi-University Training Contest - Team 5](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%205) (11/11) 
 
 2017-08-10 [2017 Multi-University Training Contest - Team 6](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%206) (12/12) **(lack of D, E, F, I, L)**
 
