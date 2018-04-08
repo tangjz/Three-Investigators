@@ -14,7 +14,7 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 **2017-12-03 [2017 中国大学生程序设计竞赛 - 总决赛](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%80%bb%e5%86%b3%e8%b5%9b) (7/12)**
 
-**2017-12-19 [2017 ACM-ICPC Asia East Continent League Final](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20East%20Continent%20League%20Final) (10/13)**
+**2017-12-17 [2017 ACM-ICPC Asia East Continent League Final](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20East%20Continent%20League%20Final) (10+1/13)**
 
 ## Training 2017 - 2018
 
