@@ -8,11 +8,11 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 2017-10-22 [2017 ACM-ICPC Asia Shenyang Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Shenyang%20Regional%20Contest) (9+4/13)
 
-**2017-10-29 [2017 ACM-ICPC Asia Xi°Øan Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Xi%e2%80%99an%20Regional%20Contest) (8+1/11)**
+**2017-10-29 [2017 ACM-ICPC Asia Xi‚Äôan Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Xi%e2%80%99an%20Regional%20Contest) (8+1/11)**
 
-**2017-11-05 [2017 ÷–π˙¥Û—ß…˙≥Ã–Ú…Ëº∆æ∫»¸ - ∫º÷›’æ](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%9d%ad%e5%b7%9e%e7%ab%99) (9+1/12)**
+**2017-11-05 [2017 ‰∏≠ÂõΩÂ§ßÂ≠¶ÁîüÁ®ãÂ∫èËÆæËÆ°Á´ûËµõ - Êù≠Â∑ûÁ´ô](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%9d%ad%e5%b7%9e%e7%ab%99) (9+1/12)**
 
-**2017-12-03 [2017 ÷–π˙¥Û—ß…˙≥Ã–Ú…Ëº∆æ∫»¸ - ◊‹æˆ»¸](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%80%bb%e5%86%b3%e8%b5%9b) (7+2/11)**
+**2017-12-03 [2017 ‰∏≠ÂõΩÂ§ßÂ≠¶ÁîüÁ®ãÂ∫èËÆæËÆ°Á´ûËµõ - ÊÄªÂÜ≥Ëµõ](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%80%bb%e5%86%b3%e8%b5%9b) (7+2/11)**
 
 **2017-12-17 [2017 ACM-ICPC Asia East Continent League Final](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20East%20Continent%20League%20Final) (10+1/13)**
 
@@ -28,7 +28,7 @@ Training list corresponding to the directory.
 
 2017-07-29 [2013 Multi-University Training Contest 7](https://wiki-three-investigators.icpc-camp.org/2013%20Multi-University%20Training%20Contest%207) (10/10)
 
-2017-08-01 [2017 Multi-University Training Contest - Team 3](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%203) (11/11) **(lack of D-2, G-2, H-2)**
+2017-08-01 [2017 Multi-University Training Contest - Team 3](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%203) (11/11)
 
 2017-08-03 [2017 Multi-University Training Contest - Team 4](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%204) (13/13)
 
@@ -40,23 +40,23 @@ Training list corresponding to the directory.
 
 2017-08-12 [2013 ACM-ICPC Asia Regional Changchun Online](https://wiki-three-investigators.icpc-camp.org/2013%20ACM-ICPC%20Asia%20Regional%20Changchun%20Online) (11/11)
 
-2017-08-19 [2017 ÷–π˙¥Û—ß…˙≥Ã–Ú…Ëº∆æ∫»¸ - Õ¯¬Á—°∞Œ»¸](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e7%bd%91%e7%bb%9c%e9%80%89%e6%8b%94%e8%b5%9b) (11/11)
+2017-08-19 [2017 ‰∏≠ÂõΩÂ§ßÂ≠¶ÁîüÁ®ãÂ∫èËÆæËÆ°Á´ûËµõ - ÁΩëÁªúÈÄâÊãîËµõ](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e7%bd%91%e7%bb%9c%e9%80%89%e6%8b%94%e8%b5%9b) (11/11)
 
 2017-08-22 [2017 Multi-University Training Contest - Team 9](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%209) (10/10) 
 
-2017-08-24 [2017 Multi-University Training Contest - Team 10](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%2010) (11/11) **(lack of G)**
+2017-08-24 [2017 Multi-University Training Contest - Team 10](https://wiki-three-investigators.icpc-camp.org/2017%20Multi-University%20Training%20Contest%20-%20Team%2010) (11/11)
 
 2017-09-09 [2017 ACM-ICPC Asia Regional Urumqi Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Urumqi%20Online) (10/10)
 
-2017-09-10 [2017 ACM-ICPC Asia Regional Shenyang Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Shenyang%20Online) (12/12) **(lack of C-2, I)**
+2017-09-10 [2017 ACM-ICPC Asia Regional Shenyang Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Shenyang%20Online) (12/12)
 
-2017-09-16 [2017 ACM-ICPC Asia Regional Xi°Øan Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Xi%e2%80%99an%20Online) (10/10) **(lack of H)**
+2017-09-16 [2017 ACM-ICPC Asia Regional Xi‚Äôan Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Xi%e2%80%99an%20Online) (10/10)
 
-**2017-09-17 [2017 ACM-ICPC Asia Regional Qingdao Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Qingdao%20Online) (10/11)** **(lack of D-2)**
+**2017-09-17 [2017 ACM-ICPC Asia Regional Qingdao Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Qingdao%20Online) (10/11)**
 
 2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Beijing%20Online) (10/10)
 
-**2017-09-24 [2017 ACM-ICPC Asia Regional Nanning Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Nanning%20Online) (12/13)** **(lack of A, B, E, G, H)**
+**2017-09-24 [2017 ACM-ICPC Asia Regional Nanning Online](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Regional%20Nanning%20Online) (12/13)**
 
 **2017-10-16 [XVII Open Cup named after E.V. Pankratiev. GP of Tatarstan](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20GP%20of%20Tatarstan) (10/12)**
 
@@ -104,7 +104,7 @@ Training list corresponding to the directory.
 
 **2016-08-13 [2015-2016 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://wiki-three-investigators.icpc-camp.org/2015-2016%20Petrozavodsk%20Winter%20Training%20Camp,%20Saratov%20SU%20Contest) (7/11)**
 
-2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12) **(lack of A-2)**
+2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12)
 
 **2017-07-24 [BUAA Summer Practice 2017 String Theory](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20String%20Theory) (12/13)**
 
