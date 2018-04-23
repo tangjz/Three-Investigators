@@ -10,7 +10,7 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 **2017-10-29 [2017 ACM-ICPC Asia Xi’an Regional Contest](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20Asia%20Xi%e2%80%99an%20Regional%20Contest) (8+1/11)**
 
-**2017-11-05 [2017 中国大学生程序设计竞赛 - 杭州站](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%9d%ad%e5%b7%9e%e7%ab%99) (9+1/12)**
+**2017-11-05 [2017 中国大学生程序设计竞赛 - 杭州站](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%9d%ad%e5%b7%9e%e7%ab%99) (9+2/12)** **(lack of H)**
 
 **2017-12-03 [2017 中国大学生程序设计竞赛 - 总决赛](https://wiki-three-investigators.icpc-camp.org/2017%20%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e7%ab%9e%e8%b5%9b%20-%20%e6%80%bb%e5%86%b3%e8%b5%9b) (7+2/11)**
 

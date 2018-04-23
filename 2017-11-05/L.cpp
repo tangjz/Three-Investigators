@@ -9,7 +9,7 @@ LL solve(LL sta, LL stp, LL len) {
 		LL a = stp, b = sta, c = i, n = len, ctr = 0;
 		while(n) {
 			LL u = a / c, v = b / c;
-			ctr ^= (((n & 3) >= 2 ? u : 0) + ((n & 1) ? v : 0)) & 1;
+			ctr ^= (((n & 2) ? u : 0) + ((n & 1) ? v : 0)) & 1;
 			a -= u * c;
 			b = a * n + b - v * c;
 			n = b / c;
@@ -26,7 +26,7 @@ int main() {
 	while(t--) {
 		scanf("%lld", &n);
 		for(mx = 1; 1LL << mx <= n; ++mx);
-		lim = (LL)sqrtl(n) * mx;
+		lim = max(sqrtl(n) / mx, (long double)0);
 		ans = 0;
 		for(LL i = 0, j, k; i < n; i = j) {
 			k = n / (i + 1);
