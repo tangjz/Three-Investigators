@@ -102,7 +102,7 @@ Training list corresponding to the directory.
 
 **2017-10-07 [2015 ACM-ICPC Northwestern European Regional Contest](https://wiki-three-investigators.icpc-camp.org/2015%20ACM-ICPC%20Northwestern%20European%20Regional%20Contest) (9/11)** @chitanda
 
-**2017-10-14 [XVII Open Cup named after E.V. Pankratiev. Grand Prix of Two Capitals](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Two%20Capitals) (6/11)** @chitanda
+**2017-10-14 [XVII Open Cup named after E.V. Pankratiev. Grand Prix of Two Capitals](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Two%20Capitals) (7/11)** @chitanda
 
 ### Non-Standard Practice
 
