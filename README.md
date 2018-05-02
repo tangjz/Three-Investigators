@@ -122,4 +122,4 @@ Training list corresponding to the directory.
 
 2017-08-14 [BUAA Summer Practice 2017 Dynamic Programming](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Dynamic%20Programming) (12/12)
 
-**2017-09-10 [Russian Code Cup 2017 - Finals](https://wiki-three-investigators.icpc-camp.org/Russian%20Code%20Cup%202017%20-%20Finals) (5/6)**
+2017-09-10 [Russian Code Cup 2017 - Finals](https://wiki-three-investigators.icpc-camp.org/Russian%20Code%20Cup%202017%20-%20Finals) (6/6)
