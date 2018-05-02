@@ -92,7 +92,7 @@ Training list corresponding to the directory.
 
 2017-09-20 [XVII Open Cup named after E.V. Pankratiev, Eastern Grand Prix](https://wiki-three-investigators.icpc-camp.org/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev,%20Eastern%20Grand%20Prix) (12/12) @chitanda @braveTester
 
-**2017-09-22 [Bubble Cup X - Finals](https://wiki-three-investigators.icpc-camp.org/Bubble%20Cup%20X%20-%20Finals) (7/9)** @chitanda @braveTester
+2017-09-22 [Bubble Cup X - Finals](https://wiki-three-investigators.icpc-camp.org/Bubble%20Cup%20X%20-%20Finals) (9/9) @chitanda @braveTester
 
 2017-09-30 [2013-2014 ACM-ICPC, NEERC, Eastern Subregional Contest](https://wiki-three-investigators.icpc-camp.org/2013-2014%20ACM-ICPC,%20NEERC,%20Eastern%20Subregional%20Contest) (10/10) @chitanda @braveTester
 
