@@ -106,7 +106,7 @@ Training list corresponding to the directory.
 
 ### Non-Standard Practice
 
-**2016-08-13 [2015-2016 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://wiki-three-investigators.icpc-camp.org/2015-2016%20Petrozavodsk%20Winter%20Training%20Camp,%20Saratov%20SU%20Contest) (7/11)**
+2016-08-13 [2015-2016 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://wiki-three-investigators.icpc-camp.org/2015-2016%20Petrozavodsk%20Winter%20Training%20Camp,%20Saratov%20SU%20Contest) (11/11)
 
 2017-05-24 [2017 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2017%20ACM-ICPC%20World%20Finals) (12/12)
 
