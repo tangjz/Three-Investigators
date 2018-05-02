@@ -58,7 +58,7 @@ Training list corresponding to the directory.
 
 2017-09-23 [2017 ACM-ICPC Asia Regional Beijing Online](https://wiki.icpc.camp/three-investigators/2017%20ACM-ICPC%20Asia%20Regional%20Beijing%20Online) (10/10)
 
-**2017-09-24 [2017 ACM-ICPC Asia Regional Nanning Online](https://wiki.icpc.camp/three-investigators/2017%20ACM-ICPC%20Asia%20Regional%20Nanning%20Online) (12/13)**
+2017-09-24 [2017 ACM-ICPC Asia Regional Nanning Online](https://wiki.icpc.camp/three-investigators/2017%20ACM-ICPC%20Asia%20Regional%20Nanning%20Online) (13/13)
 
 **2017-10-16 [XVII Open Cup named after E.V. Pankratiev. GP of Tatarstan](https://wiki.icpc.camp/three-investigators/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20GP%20of%20Tatarstan) (10/12)**
 
