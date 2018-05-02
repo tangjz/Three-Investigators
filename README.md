@@ -1,6 +1,6 @@
 # Team Three-Investigators from Beihang University
 
-Team Wiki: [Wiki - Three Investigators](https://wiki-three-investigators.icpc-camp.org)
+Team Wiki: [ICPCCamp Wiki - Three Investigators](https://wiki.icpc.camp/three-investigators/Front%20Page)
 
 ## Onsite 2017 - 2018
 
