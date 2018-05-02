@@ -118,7 +118,7 @@ Training list corresponding to the directory.
 
 2017-08-06 [2014 ACM-ICPC Asia Regional Anshan Online](https://wiki-three-investigators.icpc-camp.org/2014%20ACM-ICPC%20Asia%20Regional%20Anshan%20Online) (10/10)
 
-**2017-08-07 [BUAA Summer Practice 2017 Graph Theory](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Graph%20Theory) (9/12)**
+2017-08-07 [BUAA Summer Practice 2017 Graph Theory](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Graph%20Theory) (12/12)
 
 2017-08-14 [BUAA Summer Practice 2017 Dynamic Programming](https://wiki-three-investigators.icpc-camp.org/BUAA%20Summer%20Practice%202017%20Dynamic%20Programming) (12/12)
 
