@@ -68,7 +68,7 @@ Training list corresponding to the directory.
 
 **2018-03-29 [2017-2018 Summer Petrozavodsk Camp, Warsaw U Contest](https://wiki-three-investigators.icpc-camp.org/2017-2018%20Summer%20Petrozavodsk%20Camp,%20Warsaw%20U%20Contest) (8/11)**
 
-**2018-04-06 [2012 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2012%20ACM-ICPC%20World%20Finals) (7/12)**
+**2018-04-06 [2012 ACM-ICPC World Finals](https://wiki-three-investigators.icpc-camp.org/2012%20ACM-ICPC%20World%20Finals) (8/12)**
 
 2018-04-16 [2018 North American Invitational Programming Contest](https://wiki-three-investigators.icpc.camp/2018%20North%20American%20Invitational%20Programming%20Contest) (11/11)
 
