@@ -65,7 +65,7 @@ int main() {
 							coeff = mod - coeff;
 						ans = (ans + (LL)coeff * poly[k]) % mod;
 					}
-					if(sel < i && j <= m) {
+					if(sel < i && j && j <= m) {
 						++sel;
 						(dt += ppw[j]) >= mod && (dt -= mod);
 						if(num[j] > 1) {
