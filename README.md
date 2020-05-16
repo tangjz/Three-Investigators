@@ -16,6 +16,8 @@ Contest list corresponding to the directory. Contents include upsolving codes an
 
 **2017-12-17 [2017 ACM-ICPC Asia East Continent League Final](https://wiki.icpc.camp/three-investigators/2017%20ACM-ICPC%20Asia%20East%20Continent%20League%20Final) (10+1/13)**
 
+2018-04-15 [2018 BUPT Collegiate Programming Contest](https://wiki.icpc.camp/three-investigators/2018%20BUPT%20Collegiate%20Programming%20Contest) (11+1/12)
+
 **2018-04-19 [2018 ACM-ICPC World Finals](https://wiki.icpc.camp/three-investigators/2018%20ACM-ICPC%20World%20Finals) (6+4/11)** **(lack of D-2, E, G)**
 
 ## Training 2017 - 2018
