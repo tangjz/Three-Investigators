@@ -64,7 +64,7 @@ Training list corresponding to the directory.
 
 **2017-10-16 [XVII Open Cup named after E.V. Pankratiev. GP of Tatarstan](https://wiki.icpc.camp/three-investigators/XVII%20Open%20Cup%20named%20after%20E.V.%20Pankratiev.%20GP%20of%20Tatarstan) (10/12)**
 
-**2017-11-15 [2013 ACM-ICPC Southwestern Europe Regional Contest](https://wiki.icpc.camp/three-investigators/2013%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (9/10)**
+2017-11-15 [2013 ACM-ICPC Southwestern Europe Regional Contest](https://wiki.icpc.camp/three-investigators/2013%20ACM-ICPC%20Southwestern%20Europe%20Regional%20Contest) (10/10)
 
 2017-11-21 [2017 ACM-ICPC Asia Beijing Regional Contest](https://wiki.icpc.camp/three-investigators/2017%20ACM-ICPC%20Asia%20Beijing%20Regional%20Contest) (10/10)
 
